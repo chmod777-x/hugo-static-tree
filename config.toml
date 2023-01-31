@@ -52,12 +52,11 @@ theme = "hugo-theme-shell"
 
   description = """
   
-  Hello! I am Ryan.
-  You can find me on <a rel="me" href="https://infosec.exchange/@chmod777">Mastodon</a> as chmod777.
+  Hello! My name is Ryan.
   
   Currently I am an ITIL Process Manager, 
   but my goal is to break out of ITIL and 
-  into a SOC or GRC type of role in the future. 
+  into a cybersecurity type of role in the future. 
   
   This terminal tree site you are viewing 
   started off as a quick project, 
