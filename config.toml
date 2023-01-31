@@ -62,7 +62,9 @@ theme = "hugo-theme-shell"
   This terminal tree site you are viewing 
   started off as a quick project, 
   experimenting with static site generators (SSG).
-  In fact, this site was built with Hugo. 
+  The more I explored the topic of SSGs on <a rel="me" href="https://infosec.exchange/@chmod777">Mastodon</a>,
+  the more intrigued I became with wanting to learn Hugo 
+  to create an SSG of my own.
   After a couple hours of reviewing docs and videos, 
   this site was made. 
   
